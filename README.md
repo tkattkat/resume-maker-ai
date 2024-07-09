@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+populate env with openai key and enjoy 
+
+Resume ninja will create you a custom resume tailored specifically to a job listing 
+
+For platforms such as Lever, Greenhouse, and Workday simply enter the job url and it will scrape the description for you
+
 ## Getting Started
 
 First, run the development server:
